@@ -1,3 +1,4 @@
 /.mnemonics
 /eth-contracts/build
 /node_modules
+eth-contracts/.mnemonics
