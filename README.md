@@ -1,6 +1,10 @@
 # Udacity Blockchain Capstone
 
-The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
+This is a Blockchain based project. It covers NFT token and Zero Knowledge proof integration on blockchain.
+This project explaines how a conventional paper based property buying/selling can be implemented on Blockchain.
+Using Zokrates property ownership is verified without revealing any information about the owner of the property.
+After the zkSnarks or zero knowledge proof, the owner can mint the token i.e convert his property to NFT and thus
+can sale the minted token on [OpenSea](https://opensea.io/) crypto market.
 
 # Project Resources
 
